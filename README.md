@@ -1,7 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile 🇧🇷🇺🇸 
 
-### I'm J.Petry, Full-stack Engineer with 5+ years of experience -but I have been coding since I was 14- developing software focusing on clean code, performance and testing.
-### At this moment I'm focusing on getting my master's degree 💻, but feel free to reach me out about opportunities!
+#### I'm J.Petry, Full-stack Engineer with 5+ years of experience -but I have been coding since I was 14- developing software focusing on clean code, performance and testing.
+#### At this moment I'm focusing on getting my master's degree 💻, but feel free to reach me out about opportunities!
+
 
 
 <div align="center">
